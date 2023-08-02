@@ -1,9 +1,5 @@
 from datetime import datetime, timedelta
 
-
-
-
-
 user_data = [{'userid':"pm", 'password':"1234"}]
 student_data = {}
 
